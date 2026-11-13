@@ -1,0 +1,14 @@
+node_modules
+.next
+.git
+.env
+.env.*
+out
+coverage
+*.tsbuildinfo
+supabase
+scripts
+AGENTS.md
+CLAUDE.md
+README.md
+*.md

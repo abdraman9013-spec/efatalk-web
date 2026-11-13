@@ -1,0 +1,4 @@
+-- One-shot recovery of missing speaking Challenge points when matchs_tonight_count
+-- exceeded speaking txs (auth.uid gate + ghost class_daily). Applied live 2026-10-20.
+-- Includes active and withdrawn participants.
+-- See 049 for the forever scoring fix.

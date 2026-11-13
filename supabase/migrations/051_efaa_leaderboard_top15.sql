@@ -1,0 +1,3 @@
+-- Class boards show Top 15 (was 10).
+-- Live apply: efaa_leaderboard_top15_restore on project.
+-- Function body kept identical to 043 except limit 15.
