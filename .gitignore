@@ -43,6 +43,10 @@ supabase/.temp/
 # local tooling
 /tools/
 
+# scratch / python cache
+tmp-*.txt
+**/__pycache__/
+
 # vercel
 .vercel
 
